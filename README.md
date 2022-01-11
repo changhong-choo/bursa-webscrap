@@ -6,7 +6,7 @@ The program is able to extract equities and indices daily movements in [Bursa Ma
 
 ## Getting started
 1. Run both the .py file and the data will be stored in separate csv files in your working directory.
-2. Open bursaPowerBI.pbix file and change the data source location
+2. Open bursaPowerBI.pbix file and change the data source to your files location in step 1.
 3. Refresh data in Power BI.
 4. Done!
 
