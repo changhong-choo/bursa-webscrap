@@ -13,5 +13,5 @@ The program is able to extract equities and indices daily movements in [Bursa Ma
 ![Screenshot](https://github.com/changhong-choo/bursa-webscrap/blob/main/power-bi/power-bi-screenshot.PNG)
 
 # Further improvement
-1. Integrate both programs into one
+1. Create function and integrate both programs.
 2. Automate the daily program
